@@ -2,7 +2,7 @@
   <img align="center" alt="Coding" width="60%" src="https://github.com/DGusFr/DGusFr/blob/main/hw.jpg">
 </div>
 
-<h1 align="center"> Hello World 👋, I'm Diego Franco </h1>
+<h1 align="center"> Hello, world 👋, I'm Diego Franco </h1>
 
 <h3 align="center">Data Analyst and Full Stack Developer</h3>
 
