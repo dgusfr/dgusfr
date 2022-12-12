@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
-  <a href = "diego.u.franco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-gustavo-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
 
@@ -34,6 +33,3 @@
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dgusfr&" alt="dgusfr" /></p>
 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
