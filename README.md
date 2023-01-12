@@ -1,10 +1,11 @@
 <div align="center">
-  <img align="center" alt="Coding" width="60%" src="https://github.com/DGusFr/DGusFr/blob/main/hw.jpg">
+  <img align="center" alt="Coding" width="50%" src="https://github.com/DGusFr/DGusFr/blob/main/hw.jpg">
 </div>
 
 <h1 align="center"> Hello, world 👋, I'm Diego Franco </h1>
 
-<h3 align="center">Data Analyst and Full Stack Developer</h3>
+<h3 align="center">Data Analyst and Front-end Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
 
