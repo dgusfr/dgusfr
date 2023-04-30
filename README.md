@@ -2,7 +2,7 @@
   <img align="center" alt="Coding" width="50%" src="hw.png">
 </div>
 
-<h1 align="center"> Hello, world 👋, I'm Diego Franco </h1>
+<h1 align="center">I'm Diego Franco 👋</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DGusFr](https://github.com/DGusFr)
 
-- 💬 Ask me about **React.js, Next.js, Angular.jsL**
+- 💬 Ask me about **React.js, Next.js and Angular.js**
 
 - 📫 How to reach me **diego.u.franco@gmail.com**
 
