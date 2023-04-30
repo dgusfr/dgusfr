@@ -4,7 +4,7 @@
 
 <h1 align="center"> Hello, world 👋, I'm Diego Franco </h1>
 
-<h3 align="center">Data Analyst and Front-end Developer</h3>
+<h3 align="center">Front-end Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DGusFr](https://github.com/DGusFr)
 
-- 💬 Ask me about **Data Science, Front-end and SQL**
+- 💬 Ask me about **React.js, Next.js, Angular.jsL**
 
 - 📫 How to reach me **diego.u.franco@gmail.com**
 
