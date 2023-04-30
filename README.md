@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
 
 
-- 🔭 I’m currently working on **WEB DEVELOPMENT**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **React.js**
 
@@ -25,14 +25,21 @@
   <a href="https://www.linkedin.com/in/diego-gustavo-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
 
-<h3 align="left">Front-end languages and Tools:</h3>
+<h3 align="left">Front-end languages:</h3>
 
 <p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <a> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"" alt="html5" width="40" height="40"/> </a> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />  
   </a> 
+<p>        
+
+<h3 align="left">Front-end Tools:</h3>                                                                                                                        
+<p align="left">                                                                                                                         
+  <a> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />                                         </a>
 </p>
   
 
