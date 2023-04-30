@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" alt="Coding" width="50%" src="https://github.com/DGusFr/DGusFr/blob/main/hw.jpg">
+  <img align="center" alt="Coding" width="50%" src="hw.png">
 </div>
 
 <h1 align="center"> Hello, world 👋, I'm Diego Franco </h1>
