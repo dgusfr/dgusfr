@@ -1,5 +1,6 @@
 <div align="center">
-  <img align="center" alt="Coding" width="50%" src="hw.png">
+  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
+
 </div>
 
 <h1 align="center">I'm Diego Franco 👋</h1>
