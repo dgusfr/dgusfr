@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif">
-
+  <img src="hw.png">
 </div>
 
 <h1 align="center">I'm Diego Franco 👋</h1>
 
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
