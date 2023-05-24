@@ -41,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=radical)
 <h4>Top Languages:</h4> 
    
 
