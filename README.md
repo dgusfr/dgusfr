@@ -44,7 +44,7 @@
 <h4>Top Languages:</h4> 
 <p align="center">
   <a href="https://github.com/DGusFr/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=donut-vertical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs">
   </a>
 </p>
 
