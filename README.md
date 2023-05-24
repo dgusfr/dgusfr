@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/diego-gustavo-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:diego.u.franco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 
 <h3>Front-end</h3>
@@ -40,7 +41,8 @@
 
 <h4>Top Languages:</h4> 
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=compact)](https://github.com/DGusFr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=donut-vertical)](https://github.com/DGusFr/github-readme-stats)
+
       
 
 
