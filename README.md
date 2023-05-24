@@ -37,11 +37,19 @@
 
 <h4>Statistics:</h4> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
+</p>
 
 <h4>Top Languages:</h4> 
-     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=donut-vertical)](https://github.com/DGusFr/github-readme-stats)
+   
+
+<p align="center">
+  <a href="https://github.com/DGusFr/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=donut-vertical" alt="Top Langs">
+  </a>
+</p>
+
 
       
 
