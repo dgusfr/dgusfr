@@ -34,8 +34,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="90" />
 </span>
 
+<h4>Statistics:</h4> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark)
+
+<h4>Top Languages:</h4> 
      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGusFr&layout=compact)](https://github.com/DGusFr/github-readme-stats)
       
 
 
