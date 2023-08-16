@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DGusFr](https://github.com/DGusFr)
 
-- 💬 Ask me about **React.js, Next.js and Angular.js**
+- 💬 Ask me about **React.js & node.js**
 
 - 📫 How to reach me **diego.u.franco@gmail.com**
 
