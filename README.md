@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Diego Franco 👋</h1>
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Front-end Software Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DGusFr](https://github.com/DGusFr)
 
-- 💬 Ask me about **React.js & node.js**
+- 💬 Ask me about **React.js & Next.js**
 
 - 📫 How to reach me **diego.u.franco@gmail.com**
 
@@ -28,11 +28,11 @@
 
 <h3>Front-end</h3>
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="100" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="100" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="60" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="100" height="60" alt="CSS logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="100" height="60" alt="HTML logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="60" alt="JavaScript logo"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="60" alt="React.js logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="100" height="90" alt="Next.js logo"/>
 </span>
 
 <h4>Statistics:</h4> 
