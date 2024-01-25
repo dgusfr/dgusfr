@@ -4,11 +4,9 @@
 
 <h1 align="center">I'm Diego Franco 👋</h1>
 
-<h3 align="center">Front-end Software Developer</h3>
-
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgusfr&label=Profile%20views&color=0e75b6&style=flat" alt="dgusfr" /> </p>
-
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -26,46 +24,34 @@
   <a href = "mailto:diego.u.franco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
 
-<h3>Front-end</h3>
+## Front-end Skills
+
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="100" height="60" alt="CSS logo"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="100" height="60" alt="HTML logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="60" alt="CSS logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="60" alt="HTML logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="60" alt="JavaScript logo"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" height="60" alt="TypeScript logo"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="100" height="60" alt="React.js logo"/>  
 </span>
 
-<h4>Statistics:</h4> 
+## Back-end Support Skills
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="60" alt="Python logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="150" height="90" alt="Flask logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="150" height="90" alt="Django logo"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" width="150" height="90" alt="FastAPI logo"/>   
+</span>
+
+## Statistics:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
 </p>
    
-<h4>Top Languages:</h4> 
+## Top Languages:
 <p align="center">
   <a href="https://github.com/DGusFr/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs">
   </a>
 </p>
-
-
-      
-
-
-
-
-
-  
-
- 
-
-
-
-
-
-
-
-
-
-
-
