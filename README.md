@@ -19,11 +19,11 @@ Check out my repositories and welcome to my GitHub.</p>
 
 ## Language and technologies
 
-<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between;">
+<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between; gap: 10px;">
 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" style="border: 3px solid white;"/>
 
 </div>
 
@@ -31,11 +31,11 @@ Check out my repositories and welcome to my GitHub.</p>
 
 ## Frameworks e libraries
 
-<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between;">
+<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between; gap: 10px;">
 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="100" height="100" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="60" height="60" style="border: 3px solid white;"/>
 
 </div>
 
@@ -43,17 +43,18 @@ Check out my repositories and welcome to my GitHub.</p>
 
 ## Auxiliary Tools
 
-<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between;">
+<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between; gap: 10px;">
 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="100" height="100" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" style="margin: 0 10px; border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="120" height="120" style="margin: 0 10px; border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="120" height="120" style="border: 3px solid white;"/>
 
 </div>
 
 <br/>
+
 
 ## Connect with me:
 
