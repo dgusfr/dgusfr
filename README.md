@@ -31,13 +31,14 @@ Check out my repositories and welcome to my GitHub.</p>
 
 ## Frameworks e libraries
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; width: 100%; max-width: 600px; margin: 0 auto;">
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" style="margin-right: 10px; border: 3px solid white;"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="100" height="100" style="margin-right: 10px; border: 3px solid white;"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="60" height="60" style="border: 3px solid white;"/>
 
 </div>
+
 
 <br/>
 
