@@ -54,7 +54,7 @@ Check out my repositories and welcome to my GitHub.</p>
 <br/>
 
 
-## Connect with me:
+## Connect with me
 
 <h3 align="left">
   <p align="left">
@@ -64,7 +64,7 @@ Check out my repositories and welcome to my GitHub.</p>
 </h3>
 <br/>
 
-## Statistics:
+## Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
@@ -72,7 +72,7 @@ Check out my repositories and welcome to my GitHub.</p>
    
 <br/>
 
-## Top Languages:
+## Top Languages
 
 <p align="center">
   <a href="https://github.com/DGusFr/github-readme-stats">
