@@ -33,9 +33,9 @@ Check out my repositories and welcome to my GitHub.</p>
 
 <div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-around; align-items: center; gap: 40px;">
 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="100" height="100" style="border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="60" height="60" style="border: 3px solid white;"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="100" height="100" style="border: 3px solid white;"/>
 
 </div>
 
@@ -43,7 +43,7 @@ Check out my repositories and welcome to my GitHub.</p>
 
 ## Auxiliary Tools
 
-<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between; gap: 40px;">
+<div align="center" style="width: 100%; max-width: 600px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 40px;">
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" style="border: 3px solid white;"/>
