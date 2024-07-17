@@ -62,14 +62,6 @@ Check out my repositories and welcome to my GitHub.</p>
 </h3>
 <br/>
 
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DGusFr&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
-</p>
-   
-<br/>
-
 ## Top Languages
 
 <p align="center">
