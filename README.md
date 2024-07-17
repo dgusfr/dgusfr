@@ -35,7 +35,6 @@ Check out my repositories and welcome to my GitHub.</p>
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100" height="100" style="border: 3px solid white;"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="100" height="100" style="border: 3px solid white;"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" width="100" height="100" style="border: 3px solid white;"/>
 
 </div>
 
