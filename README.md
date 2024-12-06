@@ -4,7 +4,7 @@
 
 ## 👋 Hello! Welcome to my GitHub profile.
 
-My name is Diego Nascimento, and I am passionate about technology and software development. Based in Jundiaí, São Paulo, Brazil, I am currently a student of **Computer Engineering** and work as an **Operations Analyst**. My focus is on learning, building, and sharing knowledge in the computing and technology ecosystem.
+My name is Diego Franco, and I am passionate about technology and software development. Based in Jundiaí, São Paulo, Brazil, I am currently a student of **Computer Engineering** and work as an **Operations Analyst**. My focus is on learning, building, and sharing knowledge in the computing and technology ecosystem.
 
 ---
 
@@ -50,7 +50,7 @@ My name is Diego Nascimento, and I am passionate about technology and software d
 ## 📈 GitHub Statistics
 
 <div>
-  <a href="https://github.com/diegonascimento-dev">
+  <a href="https://github.com/dgusfr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
