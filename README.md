@@ -67,7 +67,6 @@ My name is Diego Nascimento, and I am passionate about technology and software d
 
 <div>
   <a href="https://github.com/diegonascimento-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&langs_count=7&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
