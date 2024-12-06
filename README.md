@@ -49,7 +49,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ## 📈 GitHub Statistics
 
-<div>
+<div align="center">
   <a href="https://github.com/dgusfr">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -57,7 +57,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ---
 
-## Top Languages
+## 🧑🏼‍💻 Top Languages
 
 <p align="center">
   <a href="https://github.com/DGusFr/github-readme-stats">
