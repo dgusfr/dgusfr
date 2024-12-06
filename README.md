@@ -38,6 +38,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80" height="80"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80"/>
 </div>
+
 ---
 
 ## 📞 Connect With Me
