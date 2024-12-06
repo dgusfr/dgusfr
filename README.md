@@ -2,18 +2,20 @@
   <img src="helloworld.png">
 </div>
 
-## Hello, i'm Diego Franco 👋
+## 👋 Hello! Welcome to my GitHub profile.
 
-<div style="text-align: justify;">
+My name is Diego Nascimento, and I am passionate about technology and software development. Based in Jundiaí, São Paulo, Brazil, I am currently a student of **Computer Engineering** and work as an **Operations Analyst**. My focus is on learning, building, and sharing knowledge in the computing and technology ecosystem.
 
-<p>I'm a computer engineering student, currently in my 7th semester.</p> 
-<p>I've always been very interested in knowing how things work, and studying technology has allowed me to do that.
+---
 
-I'm currently immersed in the world of Front-end development, learning technologies like React.js and Next.js.
+## 🔭 About Me
 
-Check out my repositories and welcome to my GitHub.</p>
+- 🎓 **Education**: Computer Engineering student.
+- 💼 **Work**: Operations Analyst.
+- 🌱 **Currently Learning**: Front-end (React, Angular), back-end (Node.js, Python), data structures, algorithms, system design, and DevOps tools.
+- 💻 **Interests**: Full-stack development, cloud computing, and solving complex problems with innovative solutions.
 
-</div>
+---
 
 <br/>
 
