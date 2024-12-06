@@ -31,20 +31,6 @@ My name is Diego Nascimento, and I am passionate about technology and software d
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 
 
----
-
-## Auxiliary Tools
-
-<div align="center" style="display: flex; justify-content: space-around; align-items: center; gap: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="100" height="100" margin-left: 20px; margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="90" height="90" margin-left: 20px; margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="90" height="90" margin-left: 20px; margin-right: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="90" height="90" margin-left: 20px; margin-right: 20px;"/>
-</div>
-
----
-
-
 ## Connect with me
 
 <h3 align="left">
