@@ -21,7 +21,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ## 🛠️ Technologies and Tools
 
-### 💻 **Main languages**
+### 💻 **Main Programming Languages**
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80"/> 
