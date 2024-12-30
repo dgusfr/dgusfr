@@ -83,3 +83,11 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ---
 
+## 🧑🏼‍💻 Top Languages
+
+<p align="center">
+  <a href="https://github.com/DGusFr/github-readme-stats">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&theme=dracula" alt="Top Langs">
+  </a>
+</p>
+
