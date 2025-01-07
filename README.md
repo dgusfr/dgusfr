@@ -21,7 +21,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ## 🛠️ Technologies and Tools
 
-### 💻 **Main Programming Languages**
+### 💻 ** Programming Languages**
 
 <br></br>
 
