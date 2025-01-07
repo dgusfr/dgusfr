@@ -26,23 +26,11 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <br></br>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150" height="150"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="150" height="150"/> 
-</div>
-
-<br></br>
-<br></br>
-
-### **Supplementary Programming Languages**
-
-<br></br>
-
-<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="150" height="150"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" height="150"/> 
 </div>
 
-<br></br>
 <br></br>
 
 ### 🚀 **Frameworks and Libraries**
