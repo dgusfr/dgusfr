@@ -47,6 +47,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="150" height="150"/>  
 </div>
 
+<br></br>
 ---
 
 ## 📞 Connect With Me
