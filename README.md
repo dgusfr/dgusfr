@@ -12,7 +12,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 - 🎓 **Education**: Computer Engineering student.
 - 💼 **Work**: Operations Analyst.
-- 🌱 **Currently Learning**: Front-end (React), back-end (Node.js, Python), data structures, algorithms, system design, and DevOps tools.
+- 🌱 **Currently Learning**: Java, system design, and DevOps tools.
 - 💻 **Interests**: Full-stack development, cloud computing, and solving complex problems.
 
 ---
@@ -26,7 +26,6 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <br></br>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="115" height="115"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="125" height="125"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="125" height="125"/> 
 </div>
@@ -38,8 +37,6 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <br></br>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="125" height="125"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="125" height="125"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="125" height="125"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="125" height="125"/>  
 </div>
