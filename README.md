@@ -37,7 +37,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="125" height="125"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/ width="125" height="125"/>
 </div>
 
 <br></br>
