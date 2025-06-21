@@ -13,7 +13,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 - 🎓 **Education**: Computer Engineering student.
 - 💼 **Work**: Operations Analyst.
 - 🌱 **Currently Learning**: Python, system design, and DevOps tools.
-- 💻 **Interests**: Full-stack development, cloud computing, and solving complex problems.
+- 💻 **Interests**: Development, cloud computing, and solving complex problems.
 
 ---
 
