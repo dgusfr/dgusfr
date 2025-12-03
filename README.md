@@ -33,12 +33,20 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ### 🚀 **Frameworks and Libraries**
 
-<br></br>
-
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="125" height="125"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="125" height="125"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="185" height="140"/>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="65" alt="fastapi logo"  />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo" />
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="65" alt="django logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br></br>
