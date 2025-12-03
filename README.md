@@ -50,16 +50,6 @@ My name is Diego Franco, and I am passionate about technology and software devel
 </div>
 
 <br></br>
----
-
-## 📞 Connect With Me
-
-<h3 align="left">
-  <p align="left">
-  <a href="https://www.linkedin.com/in/diego-gustavo-franco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-</h3>
-<br/>
 
 ---
 
