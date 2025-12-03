@@ -36,6 +36,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <br></br>
 
 <div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="125" height="125"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="125" height="125"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="185" height="140"/>
 </div>
@@ -67,7 +68,7 @@ My name is Diego Franco, and I am passionate about technology and software devel
 ## 🧑🏼‍💻 Top Languages
 
 <p align="center">
-  <a href="https://github.com/DGusFr/github-readme-stats">
+  <a href="https://github.com/dgusfr/github-readme-stats">
     <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&theme=dracula" alt="Top Langs">
   </a>
 </p>
