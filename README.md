@@ -36,14 +36,14 @@ My name is Diego Franco, and I am passionate about technology and software devel
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="350">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="65" alt="fastapi logo"  />
+      <td align="center" width="250">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="120" alt="fastapi logo"  />
       </td>
-      <td align="center" width="350">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="65" alt="flask logo" />
+      <td align="center" width="250">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="120" alt="flask logo" />
       </td>
-      <td align="center" width="350">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="65" alt="django logo" />
+      <td align="center" width="250">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="120" alt="django logo" />
       </td>
     </tr>
   </table>
