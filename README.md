@@ -53,13 +53,3 @@ My name is Diego Franco, and I am passionate about technology and software devel
 
 ---
 
-## 📈 GitHub Statistics
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=dracula" />
-</div>
-
-## 🧑🏼‍💻 Top Languages
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&theme=dracula" />
-</div>
-
