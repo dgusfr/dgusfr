@@ -149,15 +149,17 @@ My professional focus is on building scalable, secure, and maintainable back-end
 
 <div align="center">
   <a href="https://github.com/dgusfr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Diego's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgusfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Diego's GitHub stats"/>
+  </a>
+  <a href="https://github.com/dgusfr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgusfr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dgusfr&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=dgusfr&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
 ---
@@ -185,14 +187,13 @@ developer = {
         "DevOps practices"
     ]
 }
+```
+
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:diegogustavo.fr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-diegogustavo.fr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Diego%20Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
