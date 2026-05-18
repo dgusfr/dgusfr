@@ -21,7 +21,7 @@
   <a href="https://github.com/dgusfr">
     <img src="https://img.shields.io/github/followers/dgusfr?label=GitHub&style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/diegogustavofranco/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -174,20 +174,6 @@ developer = {
     ]
 }
 ```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/dgusfr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-dgusfr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
 ---
 
