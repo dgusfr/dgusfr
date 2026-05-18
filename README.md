@@ -186,8 +186,30 @@ developer = {
     ]
 }
 
-🤝 Let's Connect
-<div align="center"> <a href="mailto:diegogustavo.fr@gmail.com"> <img src="https://img.shields.io/badge/Email-diegogustavo.fr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Diego%20Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </div>
-<div align="center"> <p> <strong>Thanks for visiting my profile!</strong> </p> <p> Always learning, building, and improving as a Back-End Developer. </p> </div> ```
+## 🤝 Let's Connect
 
-One important detail: your GitHub profile README only appears when the repository name is exactly the same as your GitHub username, and it must be public with a README.md file. The Alura article also explains this “special repository” behavior.
+<div align="center">
+  <a href="mailto:diegogustavo.fr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-diegogustavo.fr%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/dgusfr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dgusfr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p>
+    <strong>Thanks for visiting my profile!</strong>
+  </p>
+
+  <p>
+    Always learning, building, and improving as a Back-End Developer.
+  </p>
+</div>
