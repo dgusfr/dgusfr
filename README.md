@@ -30,14 +30,14 @@
 
 ## 👨‍💻 About Me
 
-I am a **Back-End Developer** based in **Jundiaí, São Paulo, Brazil**, currently studying **Computer Engineering** and continuously improving my skills in software development, system design, APIs, databases, cloud computing, and DevOps practices.
+I am a **Back-End Developer** based in **São Paulo -SP, Brazil**, currently studying **Computer Engineering** and continuously improving my skills in software development, system design, APIs, databases, cloud computing, and DevOps practices.
 
 My professional focus is on building scalable, secure, and maintainable back-end solutions. I enjoy understanding how systems work behind the scenes, reading and improving legacy code, designing APIs, working with databases, and learning how different services communicate in real-world architectures.
 
 - 💼 Currently working as a **Back-End Developer**
 - 🎓 Studying **Computer Engineering**
 - 🧠 Focused on improving my skills in **Python, APIs, databases, system design, Git, and DevOps**
-- 🔍 Interested in **software architecture, clean code, cloud computing, observability, and distributed systems**
+- 🔍 Interested in **software architecture, clean code, cloud computing and observability**
 - 🚀 Always learning through practical projects, documentation, and real-world problem solving
 - 🌎 Based in **Brazil**
 
